@@ -1,6 +1,6 @@
 # RecurringEvents
 This is a repository of recurring reminders for important activities!
-   Recurring Event 1 = Monthly BPA reminder
+   Recurring Event 1 = Monthly BPA reminder .iCal file (download and import BPA Reminder.ics)
 
 If you need help importing iCal files into outlook, try the following steps:
    In Outlook, select File > Open & Export > Import/Export.
